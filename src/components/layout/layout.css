@@ -1,0 +1,19 @@
+.container {
+  background-color: #000000;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.content {
+  width: 70%;
+  background-color: #111111;
+  padding: 20px;
+}
+
+.data {
+  border: 5px solid #000000;
+  padding: 20px;
+}

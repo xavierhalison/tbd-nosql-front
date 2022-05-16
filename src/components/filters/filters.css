@@ -1,0 +1,9 @@
+.filters {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+}
+
+.filters > select {
+  margin-top: 10px;
+}

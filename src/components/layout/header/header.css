@@ -1,0 +1,19 @@
+.container__header {
+  padding: 20px;
+  border: 5px solid #000000;
+  margin-bottom: 20px;
+}
+
+.header__class {
+  color: #036dc3;
+  margin-bottom: 20px;
+}
+
+.header__subject {
+  margin-bottom: 10px;
+}
+
+.header__subject,
+.header__group {
+  color: #ffffff;
+}

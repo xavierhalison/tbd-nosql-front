@@ -1,0 +1,18 @@
+tr,
+td,
+th {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #036dc3;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 5px;
+  text-align: center;
+}
